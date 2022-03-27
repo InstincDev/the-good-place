@@ -1,5 +1,5 @@
 # FREE One Page Restaurant HTML & CSS Template
-Relax, sit back and fine dine with this delicious one page restaurant freebie that showcases the restaurants finest foods.
+Sit back, relax and enjoy this *The Good Place* inspired Frozen Yogurt one page restaurant website.
 
 
 ## Features
@@ -12,11 +12,11 @@ Relax, sit back and fine dine with this delicious one page restaurant freebie th
 - Retina ready (SVG - vector based)
 - Beautiful animations and transitions
 - Minimal JavaScript
-- Highly optimised for slow internet connections
+- Highly optimized for slow internet connections
 
 
 ## Technologies Used
-- HTML & CSS built with Base - http://getbase.org
+- HTML & CSS
 - WOW.js for revealing animations on scroll - http://mynameismatthieu.com/WOW/
 - Web Font Loader for loading fonts last - https://github.com/typekit/webfontloader
 
@@ -29,7 +29,7 @@ Relax, sit back and fine dine with this delicious one page restaurant freebie th
 
 
 ## Images
-- Food images used in the design come from Foodsie Feed - http://foodiesfeed.com
+- Images used in the design come from Unsplash - http://unsplash.com
 - Subtle patterns for some of the background patterns in the design - http://subtlepatterns.com/
 
 
@@ -43,6 +43,8 @@ Fonts used in the design are from Google Open Fonts:
 - Font Awesome - http://fontawesome.github.io/Font-Awesome/
 
 
-## Thank You & Credits
-Big thank you to Christos Pantazis from Oxygenna for the FREE PSD design:
+## Credits
+Christos Pantazis from Oxygenna for the FREE PSD design:
 http://www.oxygenna.com/freebies/free-one-page-psd-template
+
+Design: https://htmltemplates.co 
