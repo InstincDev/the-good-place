@@ -2106,13 +2106,13 @@ html input[disabled] {
 }
 
 .button-secondary {
-    border: 1px solid #fff;
-    background: #fff;
-    background: rgba(255, 255, 255, 0.15);
+    color:#3f000f;
+    background:#3f000f33;
 }
 .button-secondary:hover {
-    background: #fff;
-    background: rgba(255, 255, 255, 0);
+    color:#3f000f;
+    border: 1px solid #3f000f;
+    background: #3f000f55;
 }
 
 .feature-box {
@@ -2848,10 +2848,11 @@ html input[disabled] {
     border-color: #3f000f;
 }
 
-.reservations-submit {
+.color-change .button{
     margin-top: 20px;
     padding: 0.5em 2.5em;
     font-weight: 400;
+    border: red;
 }
 
 .reservations-block.active .reservation-block-img {
@@ -2881,6 +2882,8 @@ html input[disabled] {
 }
 
 .reservations-form-wrap {
+    display:flex;
+    flex-direction:column;
     border: 0;
     margin: 0;
     padding: 0;
